@@ -1,0 +1,97 @@
+.card-container {
+
+    display: flex;
+
+    flex-direction: column;
+
+    margin-left: 10px;
+
+    align-items: center;
+
+  }
+
+ 
+
+  .card-row {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    margin-bottom: 20px;
+
+    width: 100%; 
+
+  }
+
+ 
+
+  .product-card {
+
+    text-align: center;
+
+   
+
+    margin-right: 10%; /* Increase space between cards */
+
+    margin-left: 2px;
+
+  }
+
+ 
+
+  /* .product-card:first-child {
+
+    /* margin-left: auto; */
+
+    /* Remove left margin from the first card } */
+
+  
+
+ 
+
+  .product-card:last-child {
+
+    margin-right: 0; /* Remove right margin from the last card */
+
+  }
+
+ 
+
+  .product-card img {
+
+    width: 150px;
+
+    height: 150px;
+
+  }
+
+ 
+
+  .buy-button {
+
+    margin-top: 10px;
+
+  }
+  /* Myhome.css */
+
+/* Styling for section headings */
+.section-heading {
+    color: rgb(244, 245, 247);
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px; /* Adjust the font size as needed */
+    margin-top: 40px; 
+    margin-bottom: 40px;/* Add some spacing between the sections */
+    text-align: left; /* Adjust the left margin for left alignment */
+  }
+  .title-container {
+    text-align: center;
+    margin-top: 10px; /* Adjust this value as needed */
+  }
+  
+  .song-text {
+    color: white;
+    /* Add other styling as needed */
+  }
+  
